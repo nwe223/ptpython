@@ -6,7 +6,6 @@ ptpython
 *A better Python REPL*
 
 ::
-
     pip install ptpython
 
 .. image :: https://github.com/jonathanslenders/ptpython/raw/master/docs/images/example1.png
